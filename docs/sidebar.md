@@ -1,7 +1,8 @@
-- [Theme specifications](specs)
-- [Theme installation](install)
-- [Theme setup](setup)
-- [Theme Customization](custom)
+- [Intro](intro)
+- [Installation](install)
+- [Setup](setup)
+- [Customization](custom)
+- [Useful](useful)
 - [Video tutorials](video)
 - **Links**
 - [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
