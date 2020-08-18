@@ -1,27 +1,24 @@
 # Changelog
 
-## v1.0.2 - 19-10-2020
-
-### Added
-- added
-- added
-
-
-## v1.0.1 - 18-09-2020
-
-### Added
-- added
+## v1.0.2 &mdash; 19-10-2020
+#### Added
+- Added
+- Added
 
 
-### Changed
-- change
+## v1.0.1 &mdash; 18-09-2020
+#### Added
+- Added
+
+#### Changed
+- Changed
   
-### Fixed
-- fixed
+#### Fixed
+- Fixed
 
-### Removed
+#### Removed
 - Removed
 
 
-## v1.0.0 - 18-09-2020
+## v1.0.0 &mdash; 18-09-2020
 - Initial release
