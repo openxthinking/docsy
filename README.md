@@ -1,3 +1,5 @@
+
+
 # "Theme name" [Shopify](https://example.com/?ref=ghrepo) theme by [_OpenThinking_](https://example.com/?ref=ghrepo)
 
 
@@ -18,15 +20,25 @@ _"Theme name"_ is a contemporary, minimalistic built to let your ecommerce store
 
 - Free customer support
 - Free theme updates
+
 - Mobile-friendly design
 - Customizable layout
 - Built-in styles and color palettes
 - Modular design
+
+
 - Integrated Quick shop
 - Integrated reviews
 - Integrated GDPR / Cookies popup
 - Integrated Newsletter popup
-- Social media icons
+- Integrated FAQs
+- Integrated AJAX cart
+
+
+- Optimized for large images
+- Product Filtering
+- Customer Testimonials
+- Special Page Templates
 - Search engine optimization
 - Speed optimized
 - Multi-currency support
