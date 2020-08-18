@@ -5,5 +5,6 @@
 - **Changelog**
 - [Changelog](changelog)
 - **Links**
-- [![Code](https://icongr.am/feather/code.svg?size=16&color=808080)Demo Sandbox](https://codesandbox.io/s/xv36w4695o)
-- [![Github](https://icongram.jgog.in/simple/github.svg?color=808080&size=16)Github](https://github.com/jhildenbiddle/docsify-themeable)
+- [![OpenThinking](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080) OpenThinking](https://codesandbox.io/s/xv36w4695o)
+- [![Themes](https://icongr.am/feather/corner-down-right.svg?size=16&color=808080) Themes](https://github.com/jhildenbiddle/docsify-themeable)
+- [![Support](https://icongr.am/feather/message-square.svg?size=16&color=808080) Support](https://github.com/jhildenbiddle/docsify-themeable)
