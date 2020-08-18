@@ -1,15 +1,38 @@
-# Change Log
+# Changelog
 
-## 1.0.1
+All notable changes to this project will be documented in this file.
 
-*23-02-2020*
+## v1.0.2 - 19-10-2020
 
-- Update package.json, index.md and README copy
-- Update default theme: remove borders from `<table>` and `<kbd>`
-- Update simple theme: change `<blockquote>` style to match important/tip style
+### Added
 
-## 1.0.0
+- added
+- added
 
-*22-02-2020*
+# Changelog
+
+All notable changes to this project will be documented in this file.
+
+## v1.0.1 - 18-09-2020
+
+### Added
+
+- added
+
+
+### Changed
+
+- change
+  
+### Fixed
+
+- fixed
+
+### Removed
+
+- Removed
+
+
+## v1.0.0 - 18-09-2020
 
 - Initial release
