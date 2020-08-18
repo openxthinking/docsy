@@ -1,8 +1,6 @@
-- [Intro](intro)
 - [Installation](install)
 - [Setup](setup)
 - [Customization](custom)
-- [Useful](useful)
 - [Video tutorials](video)
 - **Changelog**
 - [Changelog](changelog)
