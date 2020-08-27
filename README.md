@@ -14,7 +14,7 @@ Sell more on Shopify. Build your brand and increase sales with a world-class eco
 OpenThinking is a small studio trusted by hundreds of businesses worldwide. We create impact with beautiful, responsive, minimalist Shopify themes.
 
 ## About _"Theme name"_
-_"Theme name"_ is a contemporary, minimalistic built to let your ecommerce store shine. This modern theme will look good on any screen size 一 it is the perfect combination of contemporary typeface and a lot of white space, the perfect choise for your Shopify store.
+_"Theme name"_ is a contemporary, minimalistic theme built to let your ecommerce store shine. This modern theme will look good on any screen size 一 it is the perfect combination of contemporary typeface and a lot of white space, the perfect choise for your Shopify store.
 
 ### All of our Shopify themes come with the following features:
 
