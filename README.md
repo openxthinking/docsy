@@ -18,8 +18,8 @@ _"Theme name"_ is a contemporary, minimalistic theme built to let your ecommerce
 
 ### All of our Shopify themes come with the following features:
 
-- Free customer support
-- Free theme updates
+- Free 1 year customer support
+- Free lifetime theme updates
 
 - Mobile-friendly design
 - Customizable layout
