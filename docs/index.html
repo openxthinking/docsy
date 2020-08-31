@@ -12,6 +12,12 @@
 <div id="app"></div>
 
 <script>
+
+  coverpage: {
+    '/': 'cover.md',
+    '/zh-cn/': 'cover.md'
+  }
+};
 // Docsify
 window.$docsify = {
     // GENERAL
@@ -22,6 +28,12 @@ window.$docsify = {
     //homepage   : '',
     loadSidebar: 'sidebar.md',
 
+    // COVER 
+    // -----------------------------------------------------------------
+    coverpage: {
+        '/': 'cover.md'
+    },
+    
     // NAVIGATION
     // -----------------------------------------------------------------
     alias: {
