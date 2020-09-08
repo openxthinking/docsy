@@ -1,14 +1,14 @@
 
 
-# "Theme name" [Shopify](https://example.com/?ref=ghrepo) theme by [_OpenThinking_](https://example.com/?ref=ghrepo)
+# "Theme name" [Shopify](https://openthinking.net/?ref=ghsb) theme by [_OpenThinking_](https://openthinking.net/?ref=ghsb)
 
 
-[![Download](https://icongr.am/feather/arrow-down-circle.svg?size=16&color=2DA94F) Download "Theme name"](https://example.com/?ref=ghrepo)
+[![Download](https://icongr.am/feather/arrow-down-circle.svg?size=16&color=2DA94F) Download "Theme name"](https://openthinking.net/?ref=ghsb)
 
 ---
 Sell more on Shopify. Build your brand and increase sales with a world-class ecommerce experience built to drive conversions.
 
-[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse our Shopify themes](https://example.com/?ref=ghrepo)
+[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse our Shopify themes](https://openthinking.net/?ref=ghsb)
 
 ## About _OpenThinking_
 OpenThinking is a small studio trusted by hundreds of businesses worldwide. We create impact with beautiful, responsive, minimalist Shopify themes.
@@ -45,6 +45,6 @@ _"Theme name"_ is a contemporary, minimalistic theme built to let your ecommerce
 - Clean minimal code
 
 ---
-![Download](https://icongr.am/feather/arrow-down-circle.svg?size=16&color=2DA94F) Find out more about _"Theme name"_ and how to download your Shopify theme: [Here](https://example.com/?ref=ghrepo)
+![Download](https://icongr.am/feather/arrow-down-circle.svg?size=16&color=2DA94F) Find out more about _"Theme name"_ and how to download your Shopify theme: [Here](https://openthinking.net/?ref=ghsb)
 
-[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse all our Shopify themes](https://example.com/?ref=ghrepo)
+[![View](https://icongr.am/feather/eye.svg?size=16&color=FDBD00) Browse all our Shopify themes](https://openthinking.net/?ref=ghsb)
