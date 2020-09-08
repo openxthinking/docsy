@@ -12,7 +12,7 @@ _In case you still have issues or your answers aren't answered in this Docs, che
 ## Contact & Support
 
 - Create a [GitHub issue](https://github.com/openxthinking/----/issues) for bug reports, feature requests, or questions.
-- You can also open a [ticket](https://----.com/contact) for a quicker response.
+- You can also open a [ticket](https://openthinking.net/support/?ref=ghsb) for a quicker response.
 
 ## Contribution
 
@@ -20,4 +20,4 @@ _In case you still have issues or your answers aren't answered in this Docs, che
 - Or submit a GitHub issue.
 ---
 
-Copyright (c) OpenThinking
+copyright &copy; OpenThinking
